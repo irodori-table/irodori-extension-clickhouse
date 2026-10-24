@@ -377,7 +377,7 @@ dependencies = [
 
 [[package]]
 name = "irodori-extension-clickhouse"
-version = "0.1.7"
+version = "0.1.8"
 dependencies = [
  "irodori-connector-abi",
  "reqwest",
